@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from "./logo.svg";
 import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import RootPage from "./pages/Root";
